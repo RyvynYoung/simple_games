@@ -1,4 +1,4 @@
-# <font color="teal">Simple Games in Python</font>
+# <font color="blue">Simple Games in Python</font>
 July 2020 
 
 These are short scripts that will play simple word or number guessing games in Python. They were written to practice fundamental Python basics. Files are saved as Jupyter notebooks.
@@ -19,3 +19,4 @@ A random word is selected from a list of words. Player enters a letter and recei
 - Libraries needed: Random
 - Python skills learned: more global variables, using unicode characters
 - Updates needed: add introduction and play again, replace set word list with imported list of words
+
