@@ -1,11 +1,7 @@
-<<<<<<< HEAD
-# <font color="blue">Simple Games in Python</font>
-=======
 # <font color=teal>Simple Games in Python</font>
->>>>>>> 4caf975308300f0452d1226908e710b1c404f023
 July 2020 
 
-These are short scripts that will play simple word or number guessing games in Python. They were written to practice fundamental Python basics. Files are saved as Jupyter notebooks.
+These are short scripts that will play simple word or number guessing games in Python. They were written to practice fundamental Python basics. Files are saved as Jupyter notebooks and as .py
 
 ## <font color=teal>Cows_and_Bulls_2digit</font>
 A random 2 digit number from 10 to 99 is generated, player attempts to guess the number by entering a 2 digit number. Feedback tells the player if either digit is the correct number in the correct place (bull) or if correct digit in wrong place (cow). Game ends when player guesses the number or runs out of guesses.
